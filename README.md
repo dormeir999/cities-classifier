@@ -1,5 +1,5 @@
 # cities-classifier
- An algorithm for accurately predicting the city in which a given image was taken
+An algorithm for accurately predicting the city in which a given image was taken
 
-collaborater notebook for training on the entire dataset:
-https://colab.research.google.com/drive/1lZUWA9Gmqwn2Ayj6drwQHjd5rdoT6icJ
+POC of the project:
+https://docs.google.com/document/d/1BGV1OmDvDqcWp4IQy_Dag9Uj4V_9k6mZLIjiqknYb6E/edit#
