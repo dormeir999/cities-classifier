@@ -126,3 +126,6 @@ dmypy.json
 
 # Data
 .data
+
+.Model/Train_Files_links.xlsx
+.Model/Val_Files_links.xlsx
