@@ -2,7 +2,7 @@
 An algorithm for accurately predicting the city in which a given image was taken:
 https://cities19test.herokuapp.com/
 
-![alt text](https://github.com/dormeir9999/cities-classifier/blob/master/example.JPG?raw=true)
+![alt text](https://github.com/dormeir999/cities-classifier/blob/master/example.JPG)
 
 
 ## team members 
