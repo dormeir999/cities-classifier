@@ -2,6 +2,9 @@
 An algorithm for accurately predicting the city in which a given image was taken:
 https://cities19test.herokuapp.com/
 
+![alt text](https://drive.google.com/file/d/1BclVmD48sNYn0SkRR0ERy20hkhu_8Cfs/view?usp=sharing)
+
+
 ## team members 
 Arad, Itamar, Dor, Daniel, Sagi
 
