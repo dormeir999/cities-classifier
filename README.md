@@ -4,6 +4,7 @@ https://cities19test.herokuapp.com/
 
 ![alt text](https://github.com/dormeir999/cities-classifier/blob/master/example.JPG)
 
+See a youtube demonstration of the tool [in here](https://www.youtube.com/watch?v=5G2upntY03A&ab_channel=ChaySharaby)
 
 ## team members 
 Arad, Itamar, Dor, Daniel, Sagi
